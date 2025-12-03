@@ -31,19 +31,23 @@ This project generates an optimized portfolio by combining quantitative screenin
 
 ## Getting Started
 
-### 1. Input File
+### 1. Download Files
 
-Upload a CSV file containing only ticker symbols, one per line.
-Refer to `tickers_example.csv` for the expected structure or to test the system.
+Download PortfolioOptimser.ipynb, open in an environment that supports jupyter notebook files, and create a list of tickers in a csv (or use one of ours)!
 
-### 2. Adjustable Parameters
+### 2. Input File
+
+Upload a CSV file containing only ticker symbols, one per line. Replace `Tickers_Example.csv` with your csv. 
+Refer to `Tickers_Example.csv` for the expected structure or to test the system.
+
+### 3. Adjustable Parameters
 
 At the beginning of the notebook, you may modify:
 
 * Total portfolio value (default: $1,000,000 CAD)
 * Number of stocks to include in the portfolio (default: 10)
 
-### 3. Running the Notebook
+### 4. Running the Notebook
 
 Once executed, the notebook will:
 
