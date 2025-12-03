@@ -1,4 +1,4 @@
-# Portfolio Advisory — CFM101 Group Project
+# ALPHA-BL — CFM101 Group Project
 
 This Jupyter Notebook was developed for the **CFM101 group project** as a complete portfolio optimization tool. It processes a list of stock tickers, evaluates their financial characteristics, and constructs a fully optimized long-term equity portfolio. The final output includes precise share quantities for a configurable investment amount.
 
