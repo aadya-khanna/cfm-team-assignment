@@ -1,5 +1,7 @@
 # ALPHA-BL — CFM101 Group Project
 
+![ALPHA-BL_Logo](logo.png)
+
 This Jupyter Notebook was developed for the **CFM101 group project** as a complete portfolio optimization tool. It processes a list of stock tickers, evaluates their financial characteristics, and constructs a fully optimized long-term equity portfolio. The final output includes precise share quantities for a configurable investment amount.
 
 The resulting portfolio is **designed and estimated to outperform the market**, using a quantitative selection process and the Black-Litterman optimization framework.
